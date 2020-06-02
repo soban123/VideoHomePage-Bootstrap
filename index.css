@@ -1,0 +1,194 @@
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10000 !important;
+  }
+  
+  .home-nav .links-home {
+    padding: 0px 40px;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  
+  .home-nav .links-home li a {
+    color: black !important;
+    margin-right: 15px;
+  }
+  
+  .home-nav .logo {
+    height: 134px;
+    width: 342px;
+    margin: 5px 20px;
+  }
+  
+  .header-wrapper {
+    width: auto;
+  }
+  
+  .videoClass {
+    width: 98%;
+    height: 440px;
+  }
+  
+  .iframe {
+    background: #000;
+    width: 98%;
+    height: 440px;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .header-content {
+    position: absolute;
+    top: 7%;
+    left: 20%;
+    color: white;
+  }
+  
+  .header-content .header-button {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .header-content .header-button > button {
+    padding: 15px;
+    font-weight: 300;
+    margin-left: 10px;
+  }
+  
+  .btnCustom1 {
+    background: #03a9f4;
+    color: white;
+    padding: 18px 36px !important;
+    font-size: 13px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  
+  .btnCustom2 {
+    background: #4caf50;
+    color: white;
+    padding: 18px 36px !important;
+    font-size: 13px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 450;
+  }
+  
+  .iconBoxParent {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -131px;
+    left: -100px;
+  }
+  
+  .icons-boxes {
+    background-color: none;
+    width: 106%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  
+  .icons-boxes .card {
+    border: 1px solid black;
+    border: 1px solid #e9d9d9 !important;
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  .icons-boxes .card img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .icons-boxes img {
+    width: 131px;
+    height: 139px;
+  }
+  
+  .joinUs {
+    height: 200px;
+    background: #2186C4;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+    justify-content: space-around;
+  }
+  
+  .joinUs span {
+    width: 409px;
+    color: white;
+    font-size: 32px;
+    text-align: justify;
+  }
+  
+  .joinUs span button {
+    padding: 10px;
+    color: white;
+    background: #FBC02D;
+    margin-left: 80px;
+  }
+  
+  .joinUs span button:hover {
+    color: white !important;
+    background-color: yellow;
+  }
+  
+  .joinUsDiv {
+    width: 100%;
+    display: block;
+    position: relative;
+  }
+  
+  .sayHello {
+    background: #7e7a7a;
+  }
+  
+  .form-home {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 50%;
+    padding-top: 30px;
+    color: white;
+  }
+  
+  .myform {
+    background: white;
+    padding: 25px 35px;
+    color: gray;
+    width: 50%;
+    height: 625;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .footer-top {
+    background: #1b64ec;
+    height: 5px;
+    margin-top: 30px;
+  }
+  
+  .footer1 {
+    background-color: black;
+    height: 140px;
+    text-align: center !important;
+    width: 100%;
+    display: block !important;
+    color: white;
+    padding-top: 30px;
+  }
+  
+  .Novideos {
+    color: #41a6ee;
+  }
