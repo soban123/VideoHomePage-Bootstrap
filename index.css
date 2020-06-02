@@ -28,13 +28,13 @@
   }
   
   .videoClass {
-    width: 98%;
+    width: 99%;
     height: 440px;
   }
   
   .iframe {
     background: #000;
-    width: 98%;
+    width: 99%;
     height: 440px;
     opacity: 0.5;
     position: absolute;
@@ -97,6 +97,7 @@
     align-items: stretch;
     flex-wrap: wrap;
     position: relative;
+    padding-left: 60px;
   }
   
   .icons-boxes .card {
